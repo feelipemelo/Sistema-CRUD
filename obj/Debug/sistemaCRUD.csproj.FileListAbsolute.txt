@@ -1,0 +1,7 @@
+C:\Users\felip\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\felip\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\felip\source\repos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\felip\source\repos\CRUD\CRUD\obj\Debug\sistemaCRUD.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\CRUD\CRUD\obj\Debug\sistemaCRUD.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\felip\source\repos\CRUD\CRUD\obj\Debug\CRUD.pdb
